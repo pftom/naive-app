@@ -1,0 +1,27 @@
+{
+  "name": "naive-app",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@css-render/plugin-bem": "^0.15.5",
+    "@vitejs/plugin-vue-jsx": "^1.1.6",
+    "css-render": "^0.15.5",
+    "lodash-es": "^4.17.21",
+    "naive-ui": "^2.15.6",
+    "seemly": "^0.3.1",
+    "vooks": "^0.2.8",
+    "vue": "^3.1.1"
+  },
+  "devDependencies": {
+    "@babel/parser": "^7.12.11",
+    "@babel/preset-env": "^7.12.10",
+    "@babel/preset-react": "^7.12.13",
+    "@vitejs/plugin-vue": "^1.2.5",
+    "@vue/compiler-sfc": "^3.0.5",
+    "vite": "^2.4.3"
+  }
+}
